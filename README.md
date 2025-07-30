@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 
 Hey I'm Geetesh, a passionate **Full-Stack Developer** currently working with the **MERN stack** and **Next.js**. I aspire to grow into a well-rounded **Software Engineer**.
